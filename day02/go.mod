@@ -1,3 +1,3 @@
-module github.com/tmswfrk/2025AdventOfCode/day02
+module github.com/tmswfrk/2025aoc/day02
 
 go 1.25.0
